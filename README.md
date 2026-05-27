@@ -1,1 +1,9 @@
-# GPA-VKU-Students
+<h1 align="center"></h1>
+<h3 align="center">GPA-VKU-Students</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nngocsonk3&label=Profile%20views&color=0e75b6&style=flat" alt="nngocsonk3" /> </p>
+
+- 🌱 **Vietnam Korea University of Information and Communication Technology**
+- 📫 How to reach me **sonnn.21ce@vku.udn.vn**
+- 👨‍💻 Team: Ngô Ngọc Sơn.
